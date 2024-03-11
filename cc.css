@@ -1,0 +1,95 @@
+.line {
+    text-align: center;
+    margin: 10px;
+   
+}
+.aa {
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:#65757575;
+  font-weight:100;
+}
+.bb {
+    font-size: 60px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.cc{
+   color:#65757575;
+}
+.toll{
+    height: 1100px;
+    width: 100%;
+    background-color: rgb(255 255 255);
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    height: 400px;
+    width: 26%;
+    background-color: black;
+    position:relative;
+    top:315px;
+}
+.xx {
+    background-color: #be9a9a17;
+      position:relative;
+    right:100px;
+    border-top:8px solid #07a46a; 
+    border-radius:10px;
+      box-shadow:10px 10px 15px #100e0e61;
+}
+.yy {
+     height: 900px;
+    width: 26%;
+      background-color: rgb(255 255 255);
+     position:relative;
+   top:65px;
+    
+}
+.zz {
+    background-color: #be9a9a17;
+      position:relative;
+    left:100px;
+      border-top:8px solid #044351; 
+    border-radius:10px;
+      box-shadow:10px 10px 15px #100e0e61;
+}
+.uppr {
+    height: 400px;
+    width: 100%;
+    background-color: #be9a9a17;
+      border-top:8px solid #d51c09; 
+    border-radius:10px;
+      box-shadow:10px 10px 15px #100e0e61;
+}
+.lowr {
+    height: 400px;
+    width: 100%;
+    background-color: #be9a9a17;
+    position:relative;
+    top:100px;
+      border-top:8px solid #efe925; 
+    border-radius:10px;
+      box-shadow:10px 10px 15px #100e0e61;
+}
+.super {
+    height: 150px;
+    width: 150px;
+  
+    background-color: tomato;
+     position: relative;
+    left:525px;
+    top:100px;
+  
+  
+}
+.magni {
+    position: relative;
+    left:50px;
+    margin:10px;
+    top:30px
+}
+.oo {
+    color:#65757575;
+}
